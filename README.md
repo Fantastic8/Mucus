@@ -8,7 +8,7 @@ This is a CLI which can create servers on [Vultr](https://www.vultr.com) based o
 
 ## Prerequisites
 
-+ python 3.5 +
++ python 3.6 +
 + python - [requests](https://pypi.org/project/requests/2.7.0/) lib
 + 
 
